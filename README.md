@@ -1,3 +1,8 @@
+the graphs below shows the results that I have found, please read the graphs and headings carefully. I have added the PowerPoint version too.
+
+
+
+
 <img width="583" alt="Screenshot 2021-08-29 at 5 35 35 am" src="https://user-images.githubusercontent.com/44482720/131238579-3de3b47c-9dca-41dd-b8dd-3c9fa654d424.png">
 
 <img width="1363" alt="Screenshot 2021-08-29 at 5 36 06 am" src="https://user-images.githubusercontent.com/44482720/131238587-803c5913-5feb-441b-b927-caaa897f19e6.png">
